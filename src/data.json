@@ -1,0 +1,102 @@
+{
+  "greeting": {
+    "title": "THIỆP MỜI",
+    "message": "",
+    "host": {
+      "groom": {
+        "person": "groom",
+        "name": "Quốc Bảo",
+        "relation": "",
+        "parents": [
+          {
+            "relation": "",
+            "name": ""
+          },
+          {
+            "relation": "",
+            "name": ""
+          }
+        ]
+      },
+      "bride": {
+        "person": "bride",
+        "name": "Thu Ba",
+        "relation": "",
+        "parents": [
+          {
+            "relation": "",
+            "name": ""
+          },
+          {
+            "relation": "",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "eventDetail": "TRÂN TRỌNG KÍNH MỜI \n ĐẾN DỰ BỮA CƠM THÂN MẬT CHUNG VUI CÙNG GIA ĐÌNH CHÚNG TÔI"
+  },
+  "hostInfo": [
+    {
+      "host": "LE QUOC BAO",
+      "accountInfo": [
+        {
+          "name": "LE QUOC BAO",
+          "relation": "Chú rể: ",
+          "bank": "VP BANK",
+          "account": "9898896886",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        }
+      ]
+    },
+    {
+      "host": "DAO THU BA",
+      "accountInfo": [
+        {
+          "name": "DAO THU BA",
+          "relation": "Cô dâu: ",
+          "bank": "",
+          "account": "",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        }
+      ]
+    }
+  ],
+  "mapInfo": {
+    "address1": "아펠가모 공덕 라로브홀",
+    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
+    "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
+    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
+    "lat": 37.54222,
+    "lon": 126.952708
+  },
+  "locationInfo": [
+    {
+      "title": "\uD83D\uDCCD 지하철",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+    },
+    {
+      "title": "\uD83D\uDCCD 주차안내",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+    }
+  ],
+  "emojis": [
+    "❤️",
+    "💛",
+    "💌",
+    "🥹",
+    "🥳",
+    "👰🏻‍",
+    "🤵🏻‍️",
+    "🤍",
+    "✨",
+    "💍",
+    "💒",
+    "💕",
+    "😍",
+    "🔔",
+    "💘"
+  ]
+}
